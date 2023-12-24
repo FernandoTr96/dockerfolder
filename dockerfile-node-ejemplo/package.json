@@ -1,0 +1,15 @@
+{
+  "name": "dockerfile-node-ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cron-app.js",
+  "scripts": {
+    "start": "node cron-app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FernandoTr96",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.3"
+  }
+}
