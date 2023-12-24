@@ -1,2 +1,2 @@
 # Docker
-Configuracines y practicas con docker para aprender
+Configuraciones y practicas con docker para aprender
