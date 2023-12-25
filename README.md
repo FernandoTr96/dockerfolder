@@ -2,7 +2,7 @@
 Configuraciones y practicas con docker para aprender
 
 ## Terminos
-+ Docker compos: herramienta para generar aplicaciones multicontenedor
++ Docker compose: herramienta para generar aplicaciones multicontenedor
 + Dockerfile: herramienta para crear instrucciones que crean una imagen de contenedor
 
 ## Comandos
